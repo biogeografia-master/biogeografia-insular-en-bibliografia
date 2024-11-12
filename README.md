@@ -1,6 +1,7 @@
-Prácticas de aula 9 (PA09): Biogeografía insular en la
-bibliografía<small><br>Biogeografía (GEO-131)<br>Universidad Autónoma de
-Santo Domingo (UASD)<br>Semestre 2024-02</small>
+Prácticas de aula 9 (PA09): Teoría de la biogeografía insular en la
+bibliografía, herramientas precursoras de la TBI<small><br>Biogeografía
+(GEO-131)<br>Universidad Autónoma de Santo Domingo (UASD)<br>Semestre
+2024-02</small>
 ================
 El Tali
 2024-11-12
@@ -29,15 +30,16 @@ la TBI.
 
 # Objetivos
 
-1.  Analizar la aplicación de la teoría de biogeografía insular mediante
-    la búsqueda y síntesis de un artículo científico, aplicando
-    habilidades de lectura crítica y capacidad de síntesis para
-    identificar resultados que comprueben o refuten la teoría.
+1.  Analizar la aplicación de la TBI mediante la búsqueda y síntesis de
+    un artículo científico en la bibliografía disponible y abierta,
+    aplicando habilidades de lectura crítica y capacidad de síntesis
+    para identificar resultados que comprueben o refuten la teoría.
 
 2.  Analizar datos de incidencia o abundancia para aplicar técnicas de
-    asociación entre área-especies o abundancia-especies.
+    asociación entre área-especies o abundancia-especies, como
+    herramientas precursoras de la TBI.
 
-# Ejercicio 1. Busca y resume artículo
+# Ejercicio 1. TBI en la bibliografía. Busca y resume artículo
 
 Este ejercicio se puede hacer en el aula sin mayores complicaciones
 dentro del aula.
@@ -61,7 +63,10 @@ dentro del aula.
 3.  **Citación:** cita el artículo de manera adecuada utilizando el
     formato APA.
 
-# Ejercicio 2. Busca datos y evalúa la distribución de Preston o la relación especies-área (Arrhenius, Gleason, Gitay, Lomolino, etc.)
+# Ejercicio 2. Asociación entre área-especies o abundancia-especies, como herramientas precursoras de la TBI
+
+Busca datos y evalúa la distribución de Preston o la relación
+especies-área (Arrhenius, Gleason, Gitay, Lomolino, etc.)
 
 Este ejercicio, si bien se puede hacer en el aula, es más idóneo hacerlo
 en una pantalla más grande que la de un celular. Por tal razón, esta
